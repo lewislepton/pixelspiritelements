@@ -19,3 +19,6 @@ to change the shader, go to the `setupShader()` function & find where the fragme
 there are 48 shaders to look at & play with & 1 extra file which has many different commands, collected up so you can use them in other projects.
 
 [lewis lepton](https://lewislepton.com)
+
+extra things to add.
+• add in ui support to flick thru each card without having to close, rename & restart project
