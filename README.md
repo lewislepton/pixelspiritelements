@@ -10,12 +10,12 @@ if you get the chance, purchase a deck & support the artist.
 
 # HOW TO USE IT
 
-you need [kode studio](https://github.com/Kode/KodeStudio/releases) & simply drag & drop the project folder into it & run a the project
+you need [kode studio](https://github.com/Kode/KodeStudio/releases) & simply drag & drop the project folder into it & run a the project. you can use visual studio code if you so wish, but thats a bit more of a work around to get up & running with kha.
 
 to change the shader, go to the `setupShader()` function & find where the fragment shader is set in the pipeline.
 
 ![shader load](img/shaderSelect.png)
 
-there are 48 shaders to look at & play with & 1 extra file which has many different commands, collected up so you can use them in other projects
+there are 48 shaders to look at & play with & 1 extra file which has many different commands, collected up so you can use them in other projects.
 
 [lewis lepton](https://lewislepton.com)
