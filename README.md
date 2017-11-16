@@ -20,5 +20,5 @@ there are 48 shaders to look at & play with & 1 extra file which has many differ
 
 [lewis lepton](https://lewislepton.com)
 
-extra things to add.
+extra things to add.<br>
 • add in ui support to flick thru each card without having to close, rename & restart project
