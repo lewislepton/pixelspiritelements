@@ -27,7 +27,7 @@ class PixelSpiritElements {
 	var timeID:ConstantLocation;
 
 	public function new():Void {
-		setupShader();		
+		setupShader();
 
 		width = System.windowWidth();
 		height = System.windowHeight();
